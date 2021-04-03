@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Custom-Portfolio/static/css/main.848f133a.chunk.css",
+    "main.js": "/Custom-Portfolio/static/js/main.2343d98a.chunk.js",
+    "main.js.map": "/Custom-Portfolio/static/js/main.2343d98a.chunk.js.map",
+    "runtime-main.js": "/Custom-Portfolio/static/js/runtime-main.bfe39b38.js",
+    "runtime-main.js.map": "/Custom-Portfolio/static/js/runtime-main.bfe39b38.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Custom-Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.96de342f.chunk.js": "/Custom-Portfolio/static/js/2.96de342f.chunk.js",
+    "static/js/2.96de342f.chunk.js.map": "/Custom-Portfolio/static/js/2.96de342f.chunk.js.map",
+    "static/js/3.d036f082.chunk.js": "/Custom-Portfolio/static/js/3.d036f082.chunk.js",
+    "static/js/3.d036f082.chunk.js.map": "/Custom-Portfolio/static/js/3.d036f082.chunk.js.map",
+    "index.html": "/Custom-Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Custom-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.848f133a.chunk.css.map": "/Custom-Portfolio/static/css/main.848f133a.chunk.css.map",
+    "static/js/2.96de342f.chunk.js.LICENSE.txt": "/Custom-Portfolio/static/js/2.96de342f.chunk.js.LICENSE.txt",
+    "static/media/Chrome_extension_main.465d8a09.jpg": "/Custom-Portfolio/static/media/Chrome_extension_main.465d8a09.jpg",
+    "static/media/Chrome_extension_main2.c8f56452.jpg": "/Custom-Portfolio/static/media/Chrome_extension_main2.c8f56452.jpg",
+    "static/media/App.css": "/Custom-Portfolio/static/media/Desktop.4d08c987.png",
+    "static/media/Jae Ho Choi Resume Web.e0b3e178.pdf": "/Custom-Portfolio/static/media/Jae Ho Choi Resume Web.e0b3e178.pdf",
+    "static/media/PersonalWebsite.f119705f.JPG": "/Custom-Portfolio/static/media/PersonalWebsite.f119705f.JPG",
+    "static/media/PersonalWebsite2.5422c476.JPG": "/Custom-Portfolio/static/media/PersonalWebsite2.5422c476.JPG",
+    "static/media/Sypp_calendar.a2eb3c1f.jpg": "/Custom-Portfolio/static/media/Sypp_calendar.a2eb3c1f.jpg",
+    "static/media/Sypp_desktop.a19a7516.jpg": "/Custom-Portfolio/static/media/Sypp_desktop.a19a7516.jpg",
+    "static/media/blayImage.cec90acf.jpg": "/Custom-Portfolio/static/media/blayImage.cec90acf.jpg",
+    "static/media/blayhome.06040e35.jpg": "/Custom-Portfolio/static/media/blayhome.06040e35.jpg",
+    "static/media/profile.dba7dc8c.jpg": "/Custom-Portfolio/static/media/profile.dba7dc8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe39b38.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.96de342f.chunk.js",
+    "static/css/main.848f133a.chunk.css",
+    "static/js/main.2343d98a.chunk.js"
+  ]
+}
